@@ -1,0 +1,21 @@
+body {
+    color: rgb(245, 245, 245);
+    background-color: rgb(45, 44, 44);
+    font-family: 'Sans-serif';
+    font-size: 16px;
+    padding: 3em;
+  }
+
+h1 {
+  font-family: 'Montserrat';
+  font-size: 40px;
+}
+
+h2 {
+  font-family: 'Montserrat';
+  font-size: 25px;
+}
+
+a {
+  color: lightgreen;
+}
