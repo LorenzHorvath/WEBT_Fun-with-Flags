@@ -27,6 +27,13 @@ a {
   width: 50%;
 }
 
+.center25 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
 .topnav {
   overflow: hidden;
   background-color: #161B22;
